@@ -8,7 +8,6 @@
   -moz-column-count: 1;
   -webkit-column-count: 1;
   column-count: 1;
-  -ms-column-count:1;
     }
     
     .col-1,.col-2,.col-3{
